@@ -1,0 +1,2 @@
+rootProject.name='Moviedirectory2'
+include ':app'
